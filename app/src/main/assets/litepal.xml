@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="WeatherSelect" />
+    <version value="5" />
+
+    <list>
+        <mapping class="com.zm.cuz.whatstheweather.db.City" />
+        <mapping class="com.zm.cuz.whatstheweather.db.SelectCity" />
+    </list>
+</litepal>
